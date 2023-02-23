@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1597600824 source:c:\users\vatsal\c++ workspace\hangman game\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<ctime>
+	<cstdlib>
+	<stdio.h>
+	<fstream>
+
